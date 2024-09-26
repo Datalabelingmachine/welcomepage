@@ -1,4 +1,5 @@
-# Welcome Page
+# Welcome to Data Labeling Machine (DLM)
+
 # Data Labeling Machine (DLM) - Decentralized Semantic Structuring Platform
 
 **Pioneering Decentralized Semantic Structuring through Advanced Data Codification and Privacy-Preserving Cryptographic Frameworks**
